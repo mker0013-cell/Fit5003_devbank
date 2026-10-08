@@ -5,4 +5,3 @@ fetch('/profile', {
   credentials: 'same-origin'
 });
 
-commit;
